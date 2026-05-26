@@ -1,0 +1,8 @@
+{
+  "name": "Feleeo 智能视频矩阵混剪大师",
+  "description": "专业级桌面端视频混剪与矩阵批量生成工具。支持视频分组分级对齐、智能过渡转场、AI配音脚本生成与TTS合成、视频水印与贴纸处理、音轨分流与混裁剪辑，帮助用户快速批量产出高质量矩阵短视频。",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
